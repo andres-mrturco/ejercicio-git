@@ -2,16 +2,21 @@
 
 ## Crear un repo local
 
-![](./content/repo.png)
+![](./Content/repo.png)
 
 ## Subir el repo en Github
 
-![](./content/repo-github1.png)
-![](./content/repo-github2.png)
+![](./Content/repo-github1.png)
+![](./Content/repo-github2.png)
 
 ## Hacer un commit y un push
 
-![](./content/commit.png)
-![](./content/push.png)
+![](./Content/commit.png)
+![](./Content/push.png)
 
 ## Crear una rama
+
+![](./Content/branch.png)
+![](./Content/branch2.png)
+
+## Hacer un merge
