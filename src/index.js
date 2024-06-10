@@ -1,1 +1,1 @@
-console.log("¡Hola Git!");
+console.log("Cambios en el archivo index.js");
