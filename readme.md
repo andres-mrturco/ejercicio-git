@@ -20,3 +20,6 @@
 ![](./Content/branch2.png)
 
 ## Hacer un merge
+
+![](./Content/merge1.png)
+![](./Content/merge2.png)
